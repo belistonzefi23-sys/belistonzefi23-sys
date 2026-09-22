@@ -6,7 +6,7 @@ Based in Tirana, Albania.
 
 I design and build production-ready software systems across backend development, APIs, databases, business platforms, AI automation, infrastructure, and modern web applications.
 
-My work focuses on translating real business requirements into maintainable technical systems — from architecture and development through deployment and production operations.
+My work focuses on translating real business requirements into maintainable technical systems from architecture and development through deployment and production operations.
 
 ---
 
